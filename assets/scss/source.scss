@@ -1,0 +1,25 @@
+/*
+ Theme Name:   YPP Group
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Twenty One Child Theme
+ Author:       YPP Group
+ Author URI:   https://yppgroup.co.uk
+ Template:     twentyTwentyOne
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  yppgroup
+*/
+
+//Settings
+@import "settings/source";
+
+//Source
+@import "source/source";
+
+//Utilities
+@import "utilities/source";
+
+//Components
+@import "components/source";
